@@ -1,0 +1,11 @@
+.git
+.github
+.fleet
+.fleet-deploy.log
+*.log
+.tools
+coverage
+report
+.env
+.env.*
+!.env.example
