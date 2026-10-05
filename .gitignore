@@ -1,3 +1,8 @@
-.env
 .fleet/
+*.log
 .fleet-deploy.log
+.env
+# local (non-docker) ShellSpec install, and its report / coverage output
+.tools/
+coverage/
+report/
